@@ -1,6 +1,6 @@
 # Exploratory_Data_Analysis-Finance
 
-I have done Data Analysis on Bank Loan Modelling dataset.
+I have done Data Analysis on Bank Loan Modelling Dataset.
 
 In this I've used Python’s Famous libraries like [Plotly](https://plotly.com/python/getting-started/#:~:text=Plotly%20for%20Python.-,Overview,3%2Ddimensional%20use%2Dcases.), [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/), [Scipy](https://www.scipy.org/), etc for analysis.
 
@@ -16,7 +16,7 @@ I obtained the Dataset from [Kaggle](https://www.kaggle.com/krantiswalke/bank-pe
 
 # Conclusion
 
-Hope you like my project on Bank Loan Modelling Dataset,
+Hope you like my project on Bank Loan Modelling Dataset,I have done brief analysis and also,
 
 I have performed some Hypothesis Testing:-
   *  How Age of a person is going to be a factor in availing loan ???
